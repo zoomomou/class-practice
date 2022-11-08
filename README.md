@@ -1,6 +1,6 @@
 # online-portfolio
 
-https://zoomomou.github.io/online-portfolio/
+https://zoomomou.github.io/class-practice/
 
 hello world
 text text text text
